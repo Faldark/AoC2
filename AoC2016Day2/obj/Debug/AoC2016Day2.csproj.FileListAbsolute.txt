@@ -1,0 +1,6 @@
+c:\users\bchukhno\documents\visual studio 2015\Projects\AoC2016Day2\AoC2016Day2\bin\Debug\AoC2016Day2.exe.config
+c:\users\bchukhno\documents\visual studio 2015\Projects\AoC2016Day2\AoC2016Day2\bin\Debug\AoC2016Day2.exe
+c:\users\bchukhno\documents\visual studio 2015\Projects\AoC2016Day2\AoC2016Day2\bin\Debug\AoC2016Day2.pdb
+c:\users\bchukhno\documents\visual studio 2015\Projects\AoC2016Day2\AoC2016Day2\obj\Debug\AoC2016Day2.csprojResolveAssemblyReference.cache
+c:\users\bchukhno\documents\visual studio 2015\Projects\AoC2016Day2\AoC2016Day2\obj\Debug\AoC2016Day2.exe
+c:\users\bchukhno\documents\visual studio 2015\Projects\AoC2016Day2\AoC2016Day2\obj\Debug\AoC2016Day2.pdb

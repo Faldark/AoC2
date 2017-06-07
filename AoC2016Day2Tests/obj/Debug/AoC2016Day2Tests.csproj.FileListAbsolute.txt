@@ -1,0 +1,8 @@
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoC2016Day2\AoC2016Day2Tests\bin\Debug\AoC2016Day2Tests.dll
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoC2016Day2\AoC2016Day2Tests\bin\Debug\AoC2016Day2Tests.pdb
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoC2016Day2\AoC2016Day2Tests\bin\Debug\AoC2016Day2.exe
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoC2016Day2\AoC2016Day2Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoC2016Day2\AoC2016Day2Tests\bin\Debug\AoC2016Day2.pdb
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoC2016Day2\AoC2016Day2Tests\obj\Debug\AoC2016Day2Tests.csprojResolveAssemblyReference.cache
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoC2016Day2\AoC2016Day2Tests\obj\Debug\AoC2016Day2Tests.dll
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoC2016Day2\AoC2016Day2Tests\obj\Debug\AoC2016Day2Tests.pdb
