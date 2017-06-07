@@ -17,6 +17,7 @@ namespace AoC2016Day2
             return File.ReadAllLines(_filepath);
         }
 
+
         //public string[][] ParseData(string[] inputData)
         //{
         //    string[][] jaggedArray = new string[4][];

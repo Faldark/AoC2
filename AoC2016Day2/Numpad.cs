@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace AoC2016Day2
 {
-    class Numpad
+    public class Numpad
     {
+        const int[][] 
     }
 }
