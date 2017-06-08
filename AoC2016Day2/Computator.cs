@@ -79,61 +79,34 @@ namespace AoC2016Day2
 
                 foreach (var character in word)
                 {
-                    //if (character == 'D')
-                    //{
-                    //    for (int i = 2; i < 5; i++)
-                    //    {
-                    //        if (numpad.numpadnumbers[numpad.Height][numpad.Width] != numpad.numpadnumbers[i].First() || numpad.numpadnumbers[numpad.Height][numpad.Width] != numpad.numpadnumbers[i].Last())
-                    //        {
-                    //            --numpad.Height;
-                    //        }
-                    //    }
-                    //}
+                    
 
                     if (character == 'U')
                     {
-                        if ((numpad.Height == 3) || (numpad.Height == 4)  || (numpad.Height == 2 && (numpad.Width == 1 || numpad.Width == 2 || numpad.Width == 3)) || (numpad.Height == 1 && numpad.Width == 1))
+                        if (numpad.numpadnumbers[numpad.Height - 1][numpad.Width] != '0')
                         {
                             --numpad.Height;
-                            if (numpad.Width < 2)
-                            {
-                                ++numpad.Width;
-                            }
-                            else
-                            {
-                                --numpad.Width;
-                            }
                         }
 
                     }
                     else if (character == 'D')
                     {
-                        if ((numpad.Height == 1) || (numpad.Height == 2 && (numpad.Width == 2 || numpad.Width == 1 || numpad.Width == 3)) || (numpad.Height == 3 && numpad.Width == 1) && (numpad.Height == 0))
+                        if (numpad.numpadnumbers[numpad.Height + 1][numpad.Width] != '0')
                         {
                             ++numpad.Height;
-                            if (numpad.Width > 2)
-                            {
-                                ++numpad.Width;
-                            }
-                            else
-                            {
-                                --numpad.Width;
-                            }
                         }
-
                     }
                     else if (character == 'L')
                     {
-                        if ((numpad.Width != 0))
+
+                        if (numpad.numpadnumbers[numpad.Height][numpad.Width - 1] != '0')
                         {
                             --numpad.Width;
-                            
                         }
-
                     }
                     else if (character == 'R')
                     {
-                        if ((numpad.Height == 2 && numpad.Width == 0) || (numpad.Width == 1) || (numpad.Width == 0 && (numpad.Height == 1 || numpad.Height == 3)) || (numpad.Width == 3) || (numpad.Height == 2 && numpad.Width == 2))
+                        if (numpad.numpadnumbers[numpad.Height][numpad.Width + 1] != '0')
                         {
                             ++numpad.Width;
                         }

@@ -24,16 +24,18 @@ namespace AoC2016Day2
     {
         public char[][] numpadnumbers = new char[][]
         {
-            new char[] {'1'},
-            new char[] {'2','3','4'},
-            new char[] {'5','6','7','8','9'},
-            new char[] {'A','B','C'},
-            new char[] {'D'}
+            new char[] {'0','0','0','0','0','0','0'},
+            new char[] {'0','0','0','1','0','0','0'},
+            new char[] {'0','0','2','3','4','0','0'},
+            new char[] {'0','5','6','7','8','9','0'},
+            new char[] {'0','0','A','B','C','0','0'},
+            new char[] {'0','0','0','D','0','0','0'},
+            new char[] {'0','0','0','0','0','0','0'}
         };
 
 
-        public int Height { get; set; } = 2;
+        public int Height { get; set; } = 3;
 
-        public int Width { get; set; } = 0;
+        public int Width { get; set; } = 1;
     }
 }
