@@ -30,5 +30,23 @@ namespace AoC2016Day2.Tests
             Assert.IsTrue(comparer.Compare(suposedResult, result).AreEqual, "something went wrong");
 
         }
+        [TestMethod()]
+        public void ComputateResultSecondStarShouldReturnGenericListWithResult()
+        {
+            //given
+            string[] inputData = new[] { "DDLUURRR", "UURDD"  };
+            List<char> suposedResult = new List<char>() { '8', 'C' };
+            DataReader reader = new DataReader();
+            Computator computator = new Computator();
+
+            CompareLogic comparer = new CompareLogic();
+
+            //when
+            List<char> result = computator.ComputateResultSecondStar(inputData);
+
+            //then
+            Assert.IsTrue(comparer.Compare(suposedResult, result).AreEqual, "something went wrong");
+
+        }
     }
 }

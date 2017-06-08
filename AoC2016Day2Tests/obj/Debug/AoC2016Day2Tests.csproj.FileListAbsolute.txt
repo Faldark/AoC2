@@ -6,3 +6,5 @@ C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoC2016Day2\AoC2016Day2T
 C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoC2016Day2\AoC2016Day2Tests\obj\Debug\AoC2016Day2Tests.csprojResolveAssemblyReference.cache
 C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoC2016Day2\AoC2016Day2Tests\obj\Debug\AoC2016Day2Tests.dll
 C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoC2016Day2\AoC2016Day2Tests\obj\Debug\AoC2016Day2Tests.pdb
+C:\Users\Bchukhno\documents\visual studio 2015\Projects\AoC2016Day2\AoC2016Day2Tests\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\Bchukhno\documents\visual studio 2015\Projects\AoC2016Day2\AoC2016Day2Tests\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
